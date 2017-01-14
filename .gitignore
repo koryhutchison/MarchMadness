@@ -4,3 +4,4 @@
 .cached_templates/
 __pycache__/
 .sass-cache/
+/Project3/dist/
